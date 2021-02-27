@@ -1,7 +1,7 @@
 ---
-title: "Side Projects #1 - Annapoker"
-date: 2020-11-20
-tags: ["Side Projects", "Annapoker", "Golang", "Redis", "React", "RabbitMQ", "STOMP", "Docker", "nginx"]
+title: "Side Projects #3 - Annaquit"
+date: 2020-12-05
+tags: ["Side Projects", "Golang", "React", "Docker", "Kubernetes"]
 author: "marcel"
 showToc: false
 TocOpen: false
