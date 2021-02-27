@@ -13,12 +13,11 @@ disableHLJS: true
 disableShare: false
 searchHidden: true
 cover:
-    image: "covers/keyboard.png"
+    image: "https://i.ibb.co/NCfRPh3/Bildschirmfoto-2021-02-27-um-20-23-40.png"
     alt: Cover Image
     relative: false
     hidden: false
 ---
-
 Neben [Annapoker](https://annapoker.de) habe ich in den letzten Monaten der Pandemie mehrere Ideen zur besseren 
 verteilen Zusammenarbeit umgesetzt. Heute geht es um [Annabingo](https://annabingo.de)!
 Auch das Projekt findet man natürlich in meinem [GitHub Repository](https://github.com/mz47/annabingo).
@@ -31,7 +30,7 @@ Was ist die aktuelle Lieblingsbeschäftigung aller, die im Homeoffice verweilen?
 Wie finden diese Meetings statt? Teams. Zoom. Skype.
 Sind diese Meetings immer und in gänze spannend? Naja...
 
-Und genau da kommt Annabingo ins Spiel.
+Und genau da kommt [Annabingo](https://annabingo.de) ins Spiel.
 
 Idee war es eine simple Bingo-Implementierung umzusetzen, die sowohl als Bullshit-Bingo für schier endlose 
 Meeting-Marathons funktioniert, als auch als klassischer Ice Breaker für die nächste Team Runde.
@@ -55,14 +54,14 @@ Auch diesmal bin ich bei React gelandet. Ich muss ja gestehen, dass ich eigentli
 Eigentlich. Nach einigem Hin und Her beim Routing, wurde mir das ganze Framework-Geraffel aber zu kompliziert.
 Da lobe ich mir doch den modularen Aufbau von React und das gute Ökosystem - mittlerweile, fairerweise.
 
-Im Gegensatz zu Annabingo habe ich hier nicht Grommet als UI Framework benutzt, sondern Bootstrap. 
+Im Gegensatz zu [Annabingo](https://annabingo.de) habe ich hier nicht Grommet als UI Framework benutzt, sondern Bootstrap. 
 Ich wollte schon länger die React-Integration testen und war positiv überrascht. Alles klappt wie gewohnt.
 
 #### Datenbank
 
 Die Daten speichere ich aktuell BuntDB. Dies ist ein embedded Key-Value Store geschrieben in Go, ganz simpel. 
 Das funktioniert gut, ist schnell genug und reicht für die aktuelle Auslastung. Klar könnte man auch einen Redis-Cluster
-analog zu Annapoker verwenden, die Daten aus nach der TTL ausphasen lassen, das war mir bisher aber zuviel Aufwand.
+analog zu [Annapoker](https://annapoker.de) verwenden, die Daten aus nach der TTL ausphasen lassen, das war mir bisher aber zuviel Aufwand.
 
 Warum überhaupt Persistenz, wird man sich vielleicht fragen. Naja, ab und zu macht es scheinbar Sinn, ein passendes
 Bingo-Spielfeld am Start zu haben. Vor allem wenn man den Ice Breaker in mehreren Runden verwendet.
@@ -86,6 +85,6 @@ Das war eine schöne Fingerübung, die mich ein oder zwei Abende beschäftigt ha
 
 ### Fazit
 
-Annabingo hat Spaß gemacht. Ein kleines, nützliches Tool, das mir schon das ein oder andere Meeting weniger
+[Annabingo](https://annabingo.de) hat Spaß gemacht. Ein kleines, nützliches Tool, das mir schon das ein oder andere Meeting weniger
 Anstrengend vorkommen ließ. Leider denke ich viel zu selten daran, es einzusetzen. 
 Aber vielleicht hast Du da ja den perfekten Einsatzzweck zu? Oder Feedback? Ich freue mich. Bis bald!
