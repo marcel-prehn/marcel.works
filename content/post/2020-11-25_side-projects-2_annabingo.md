@@ -18,6 +18,7 @@ cover:
     relative: false
     hidden: false
 ---
+
 Neben [Annapoker](https://annapoker.de) habe ich in den letzten Monaten der Pandemie mehrere Ideen zur besseren 
 verteilen Zusammenarbeit umgesetzt. Heute geht es um [Annabingo](https://annabingo.de)!
 Auch das Projekt findet man natürlich in meinem [GitHub Repository](https://github.com/mz47/annabingo).
