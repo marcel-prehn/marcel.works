@@ -37,6 +37,10 @@ params:
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
+  analytics:
+    google:
+      SiteVerificationTag: "G-XLDN3ESJVC"
+
   cover:
     hidden: false
     hiddenInList: false
