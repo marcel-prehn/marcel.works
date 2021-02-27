@@ -22,8 +22,8 @@ cover:
 Ich dachte mir ich berichte einfach mal in einer neuen Serie von kleineren und größeren Projekten, 
 die ich so nach Feierabend umsetze. Dabei liegt mein persönlicher Fokus meist auf dem Erlernen neuer 
 Technologien oder Systeme. Aber ab und zu kommt tatsächlich was sinnvolles dabei raus. 
-Zum Beispiel ![Annapoker](https://annapoker.de)! 
-Das ![Repository](https://github.com/mz47/annapoker) zum Projekt findet man natürlich in meinem GitHub.
+Zum Beispiel [Annapoker](https://annapoker.de)!
+Das [Repository](https://github.com/mz47/annapoker) zum Projekt findet man natürlich in meinem GitHub.
 
 ### Der Use Case
 
@@ -123,7 +123,7 @@ Das war easy. Über das genaue Vorgehen werde ich separat berichten.
 
 #### Punkt 4: Ohne Backend geht's doch nicht (so einfach)
 
-Im ersten Wurf von ![Annapoker](https://annapoker.de) habe ich noch probiert, die Clients sich untereinander synchronisieren zu lassen. 
+Im ersten Wurf von [Annapoker](https://annapoker.de) habe ich noch probiert, die Clients sich untereinander synchronisieren zu lassen. 
 Ohne den Einsatz eines Backends als zentrales Hub. Das hat anfangs auch gut funktioniert, 
 jedoch wurde der Code schnell sehr komplex. 
 Um das zu beheben (und weil es eine passende STOMP-Lib für Go gibt) kam also doch ein Backend dazu.
@@ -140,7 +140,7 @@ Das Thema ist definitiv mal einen eigenen Blog-Post wert.
 
 Das Projekt hat viel Spaß gemacht, ich habe einiges gelernt. Vor allem die Vorzüge der 
 Backend-Entwicklung verglichen mit dem Frontend. Spaß beiseite.
-Beim Kunden kam ![Annapoker](https://annapoker.de) gut an, bis auf kleinere Startschwierigkeiten hat alles gut funktioniert. 
+Beim Kunden kam [Annapoker](https://annapoker.de) gut an, bis auf kleinere Startschwierigkeiten hat alles gut funktioniert. 
 Was mich jetzt natürlich interessiert ist, wie sich die Anwendung unter Last verhält. 
 Vielleicht kommt der große Ansturm ja noch. 
 Feedback ist natürlich immer willkommen.
