@@ -13,7 +13,7 @@ disableHLJS: true
 disableShare: false
 searchHidden: true
 cover:
-    image: "/covers/gears.png"
+    image: "https://images.unsplash.com/photo-1560574188-6a6774965120?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80"
     alt: Cover Image
     relative: false
     hidden: false
