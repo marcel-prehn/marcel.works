@@ -13,7 +13,7 @@ disableHLJS: true
 disableShare: false
 searchHidden: true
 cover:
-    image: "covers/shoes.png"
+    image: "https://images.unsplash.com/photo-1462927114214-6956d2fddd4e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fHNob2VzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
     alt: Cover Image
     relative: false
     hidden: false
