@@ -1,23 +1,21 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-tags: ["first"]
+title: ""
+date: 
+tags: ["tags"]
 author: "marcel"
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: ""
 disableHLJS: true
 disableShare: false
-disableHLJS: false
 searchHidden: true
 cover:
-image: "<image path/url>"
-alt: "<alt text>"
-caption: "<text>"
-relative: false
-hidden: true
-
+    image: "covers/keyboard.png"
+    alt: Cover Image
+    relative: false
+    hidden: false
 ---
+
