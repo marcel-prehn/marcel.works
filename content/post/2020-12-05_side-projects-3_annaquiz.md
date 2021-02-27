@@ -13,7 +13,7 @@ disableHLJS: true
 disableShare: false
 searchHidden: true
 cover:
-    image: "covers/keyboard.png"
+    image: "https://i.ibb.co/DtHP1GC/Bildschirmfoto-2021-02-27-um-21-31-19.png"
     alt: Cover Image
     relative: false
     hidden: false
